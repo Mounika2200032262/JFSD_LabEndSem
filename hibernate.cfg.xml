@@ -7,7 +7,7 @@
         <!-- Database connection settings -->
         <property name="hibernate.connection.url">jdbc:mysql://localhost:3306/labexam</property>
         <property name="hibernate.connection.username">root</property>
-        <property name="hibernate.connection.password">your_password</property>
+        <property name="hibernate.connection.password">admin</property>
         <property name="hibernate.connection.driver_class">com.mysql.cj.jdbc.Driver</property>
 
         <!-- Hibernate settings -->
